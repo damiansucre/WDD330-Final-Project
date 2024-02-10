@@ -1,0 +1,12 @@
+{
+  "name": "wdd330-final-project",
+  "version": "1.0.0",
+  "description": "WDD330 final project",
+  "scripts": {
+    "start":"parcel index.html"
+  },
+  "author": "Angel Damian Escalante <damian_escalante_83@hotmail.com>",
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
